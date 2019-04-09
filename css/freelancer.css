@@ -22,11 +22,6 @@ h6 {
   background-color: #212529;
 }
 
-.about-margin {
-  margin-right: -20rem;
-  margin-left: -20rem;
-}
-
 hr.asterisk-light,
 hr.asterisk-dark {
   max-width: 15rem;

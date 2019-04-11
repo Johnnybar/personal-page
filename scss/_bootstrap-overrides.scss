@@ -38,7 +38,9 @@ a {
     border-color: darken($primary, 10%);
   }
 }
-
+.lead{
+  font-size: 0.9em !important;
+}
 .btn-secondary {
   background-color: $secondary;
   border-color: $secondary;
@@ -48,4 +50,8 @@ a {
     background-color: darken($secondary, 10%);
     border-color: darken($secondary, 10%);
   }
+}
+
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
+    background-color: $secondary !important;
 }

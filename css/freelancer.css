@@ -391,7 +391,8 @@ a:focus, a:hover, a:active {
 }
 
 .lead {
-  font-size: 1em !important;
+  font-size: 1.2em !important;
+  font-family: inherit;
 }
 
 .btn-secondary {

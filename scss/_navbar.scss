@@ -36,6 +36,7 @@
 }
 @media(min-width:992px) {
   #mainNav {
+
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
@@ -55,7 +56,7 @@
     .navbar-nav > li.nav-item > a.nav-link.active {
       color: $white;
       background: $primary;
-      border: 1px solid $white;
+      border: 1.1px solid $white;
       &:active,
       &:focus,
       &:hover {

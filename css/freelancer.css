@@ -116,13 +116,13 @@ section h2 {
 
 #mainNav .navbar-brand {
   color: #fff;
-  font-size: 0.4em;
+  font-size: 0.7em;
 }
 
 #mainNav .navbar-nav {
   margin-top: 1rem;
   letter-spacing: 0.0625rem;
-  font-size: 0.4em;
+  font-size: 0.8em;
   font-weight: 200;
 }
 
@@ -155,19 +155,19 @@ section h2 {
     transition: padding-top 0.3s, padding-bottom 0.3s;
   }
   #mainNav .navbar-brand {
-    font-size: 0.6em;
+    font-size: 0.8em;
     -webkit-transition: font-size 0.3s;
     transition: font-size 0.3s;
   }
   #mainNav .navbar-nav {
     margin-top: 0;
-    font-size: 0.5em;
+    font-size: 0.8em;
     font-weight: 200;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
     background: #212529;
-    border: 1px solid #fff;
+    border: 1.1px solid #fff;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
@@ -178,7 +178,7 @@ section h2 {
     padding-bottom: 0.5rem;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    font-size: 0.5em;
+    font-size: 0.7em;
   }
 }
 
@@ -391,7 +391,7 @@ a:focus, a:hover, a:active {
 }
 
 .lead {
-  font-size: 0.9em !important;
+  font-size: 1em !important;
 }
 
 .btn-secondary {

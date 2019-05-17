@@ -3,7 +3,8 @@
     "name": "startbootstrap-freelancer",
     "version": "5.0.4",
     "scripts": {
-        "start": "gulp watch"
+        "start": "gulp watch",
+        "push": "git push origin master"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
